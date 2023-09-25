@@ -1,0 +1,6 @@
+DatabaseHost=localhost
+DatabasePort=5432
+DatabaseName=mydatabase
+ApiKey=your-api-key-here
+LogLevel=info
+MaxConnections=100
